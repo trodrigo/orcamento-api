@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/trodrigo/orcamento-api/issues"
   },
-  "homepage": "https://github.com/trodrigo/orcamento-api#readme"
+  "homepage": "https://github.com/trodrigo/orcamento-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.19"
+  }
 }
