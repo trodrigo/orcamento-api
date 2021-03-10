@@ -62,19 +62,19 @@ app.post('/home', async (req, res) => {
         "topSubTitulo": "This is a simple hero unit, a simple Jumbotron-style " +
                         "component for calling extra attention to featured content or information. ",
         "topTextBtn": "Orçamento",
-        "topLinkBtn": "http://localhost:3000/orcamento",
+        "topLinkBtn": "http://localhost:3006/orcamento",
         "servTitulo": "Serviços",
         "servSubTitulo": "Mauris nec urna et mi pulvinar tristique eget quis nunc.",
         "servUmIcone": "laptop-code",
         "servUmTitulo": "Serviço Um",
         "servUmDesc": "Praesent quis sagittis libero, nec suscipit neque. " +
                       "Quisque ut ultrices lectus, sit amet sollicitudin mauris.",
-        "servDoisIcone": "laptop-code",
-        "servDoisTitulo": "Serviço Um",
+        "servDoisIcone": "mobile-alt",
+        "servDoisTitulo": "Serviço Dois",
         "servDoisDesc": "Nullam rutrum imperdiet nisi, eget facilisis elit " +
                         "consectetur accumsan lectus, sit amet sollicdin efficitur.",
-        "servTresIcone": "laptop-code",
-        "servTresTitulo": "Serviço Um",
+        "servTresIcone": "network-wired",
+        "servTresTitulo": "Serviço Três",
         "servTresDesc": "Quisque elementum suscipit dolor, sed lobortis nibh. " +
                         "Curabitur et dui iaculis, consectetur enim vitae purus..",                           
     }

@@ -11,7 +11,7 @@ const orcamento= new Schema({
     phone: {
         type: String
     },
-    whatsapp: {
+    whatsApp: {
         type: String
     },
     projeto: {
